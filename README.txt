@@ -1,0 +1,1 @@
+These scripts were just build on the standard python3 library, and were only ever used on windows to help copy files to a backup location. Feel free to modify anything! -- Alonzo
